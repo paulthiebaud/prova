@@ -24,9 +24,9 @@ body {
         <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
           <a class="dropdown-item" href="indexprova.html">Action</a>
-          <a class="dropdown-item" href="img/23905230_1090327184403115_4638447966691632671_n.jpg">Action 2</a>
+          <a class="dropdown-item" href="IMMAGINI/23905230_1090327184403115_4638447966691632671_n.jpg">Action 2</a>
           <a class="dropdown-item" href="#">Altro54</a>
-          <a class="dropdown-item" href="img/UDIVER.png">Action 2</a>
+          <a class="dropdown-item" href="IMMAGINI/UDIVER.png">Action 2</a>
         </div>
       </li>
     </ul>
