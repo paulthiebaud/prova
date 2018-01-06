@@ -16,7 +16,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Paul Thiebaud</title>
+    <title>Paul Thiebaud | articolo </title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -28,6 +28,13 @@
     <div id="nav_bar_bla" ></div>
 
     <main role="main" class="container">
+        <div class="float-right img-fluid" style="max-width: 100%; width:400px; height:auto;">
+            <!-- 4:3 aspect ratio -->
+            <div class="embed-responsive embed-responsive-4by3">
+                <iframe src="https://www.youtube.com/embed/kO4MIr3rDBk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div id="blablabla"></div>
     </main><!-- /.container -->
 
     <!-- Bootstrap core JavaScript
@@ -41,7 +48,7 @@
     $(document).ready(function() {
         $('#nav_bar_bla').load('navbar.shtml?time='+new Date().getTime());
 
-        $('main.container').load('TESTO/articolo.txt');
+        $('div#blablabla').load('TESTO/articolo.txt?time='+new Date().getTime());
     });
     </script>
 

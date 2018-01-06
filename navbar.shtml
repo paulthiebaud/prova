@@ -3,40 +3,105 @@ body {
    margin-top: 80px;
 }
 </style>
+
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-  <a class="navbar-brand" href="#">Navigazione</a>
+  <div class="navbar-brand" href="#">Navigazione</div>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarsExampleDefault">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="index.html">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Partite</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="articolo.html">Articolo</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="stades.html">Stades</a>
+      </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
-          <a class="dropdown-item" href="indexprova.html">Action</a>
-          <a class="dropdown-item" href="IMMAGINI/23905230_1090327184403115_4638447966691632671_n.jpg">Action 2</a>
-          <a class="dropdown-item" href="#">Altro54</a>
-          <a class="dropdown-item" href="IMMAGINI/UDIVER.png">Action 2</a>
+          <a class="dropdown-item" href="indexprova.html">image dans page</a>
+          <a class="dropdown-item" href="IMMAGINI/23905230_1090327184403115_4638447966691632671_n.jpg">image 1</a>
+          <a class="dropdown-item" href="IMMAGINI/UDIVER.png">image 2</a>
         </div>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      <input id="search_me" class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+      <button type="button" class="btn btn-outline-success my-2 my-sm-0" data-toggle="modal" data-target="#exampleModal">Search</button>
     </form>
   </div>
 </nav>
 
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Search</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Bon, pour ce qui est de la recherche, c'est pas encore au point, mais au moins, on peut voir comment faire une belle boite de dialogue dite 'modale'.</p>
+        <p>Et qui reprend le texte recherché dans son titre, en plus - que demande le peuple ?</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+    //////////////////////////////////////////////////////////////
+    // activate navbar menu item to reflect with page is displayed
+    //////////////////////////////////////////////////////////////
+
+    // we start with 'page not found'
+    var found  = false;
+    // we'll store there the first navbar menu item, which will be used when page detection is unsuccesfull
+    var $first = undefined;
+    
+    // iterate through the top menu items
+    $('nav > div > ul > li').each(function(){
+
+        // store the first navbar menu item for later use
+        if (!$first) {
+            $first = $(this);
+        }
+
+        // read the href attribute
+        var href = $(this).children("a").first().attr('href');
+
+        // if browser url ends with this href 
+        if (!found && href && window.location.href.endsWith(href)) {
+            // we are on this page
+            found = true;
+            // activate
+            $(this).addClass('active');
+            // stop iteration
+            return false;
+        }
+        // continue iteration
+        return true;
+    });
+    // we did not find anything, just activate the first menu item
+    if (!found) {
+        $first.addClass('active');
+    }
+
+    //////////////////////////////////////////////////////////////
+    // change modal title on open
+    //////////////////////////////////////////////////////////////
+
+    $('#exampleModal').on('show.bs.modal', function (event) {
+        $(this).find('#exampleModalLabel').text("Search « "+$('#search_me').val() + " »");
+    });
+
+</script>
