@@ -1,124 +1,96 @@
-Gakpé je descendais des Fleuves impassibles,
-Je ne me sentis plus guidé par les haleurs :
-Des Peaux-Rouges criards les avaient pris pour cibles,
-Les ayant cloués nus aux poteaux de couleurs.
+BAYER LEVERKUSEN
 
-J'étais insoucieux de tous les équipages,
-Porteur de blés flamands ou de cotons anglais.
-Quand avec mes haleurs ont fini ces tapages,
-Les Fleuves m'ont laissé descendre où je voulais.
+1. Sistemi di gioco
 
-Dans les clapotements furieux des marées,
-Moi, l'autre hiver, plus sourd que les cerveaux d'enfants,
-Je courus ! Et les Péninsules démarrées
-N'ont pas subi tohu-bohus plus triomphants.
+Sistema di base
+4-2-3-1 
+Variante 3-4-3 (Una parte del secondo tempo contro l’Hannover)
 
-La tempête a béni mes éveils maritimes.
-Plus léger qu'un bouchon j'ai dansé sur les flots
-Qu'on appelle rouleurs éternels de victimes,
-Dix nuits, sans regretter l'oeil niais des falots !
+Fase offensiva
 
-Plus douce qu'aux enfants la chair des pommes sûres,
-L'eau verte pénétra ma coque de sapin
-Et des taches de vins bleus et des vomissures
-Me lava, dispersant gouvernail et grappin.
+Costruzione 3-3-4 (P1, P2) che può diventare anche 2-3-1-4
 
-Et dès lors, je me suis baigné dans le Poème
-De la Mer, infusé d'astres, et lactescent,
-Dévorant les azurs verts ; où, flottaison blême
-Et ravie, un noyé pensif parfois descend ;
+Variante anche 3-4-1-2  (SDG3412) (contro Hannover nel secondo tempo) 
 
-Où, teignant tout à coup les bleuités, délires
-Et rhythmes lents sous les rutilements du jour,
-Plus fortes que l'alcool, plus vastes que nos lyres,
-Fermentent les rousseurs amères de l'amour !
+Fase difensiva 
 
-Je sais les cieux crevant en éclairs, et les trombes
-Et les ressacs et les courants : je sais le soir,
-L'Aube exaltée ainsi qu'un peuple de colombes,
-Et j'ai vu quelquefois ce que l'homme a cru voir !
+Sistema prevalente: 4-2-3-1 (NP2) con difesa schierata
 
-J'ai vu le soleil bas, taché d'horreurs mystiques,
-Illuminant de longs figements violets,
-Pareils à des acteurs de drames très antiques
-Les flots roulant au loin leurs frissons de volets !
+3-4-3 (SDG343) nel caso in cui si vada a cercare una pressione alta
 
-J'ai rêvé la nuit verte aux neiges éblouies,
-Baiser montant aux yeux des mers avec lenteurs,
-La circulation des sèves inouïes,
-Et l'éveil jaune et bleu des phosphores chanteurs !
+5-4-1 (SDG541) che è di fatto l’interpretazione difensiva del 3-4-3 
+2. Introduzione 
+Stile di gioco coerente durante tutta la partita, indipendentemente dal risultato che sta maturando, caratterizzato da aggressività e ricerca di transizioni offensive. Sono presenti alcuni tratti caratteristici in tutte le fasi della partita.
 
-J'ai suivi, des mois pleins, pareille aux vacheries
-Hystériques, la houle à l'assaut des récifs,
-Sans songer que les pieds lumineux des Maries
-Pussent forcer le mufle aux Océans poussifs !
+Nella fasi di possesso palla la prima idea è quella di sviluppare il gioco palla a terra orientandolo verso le corsie laterali, in modo da sfruttare l’ampiezza che danno gli esterni di centrocampo.
+La fase difensiva è contraddistinta dalla ricerca di una forte pressione nella metà campo avversaria, per cercare transizioni offensive, uno dei punti di forza della squadra. Questa pressione a volte si rivela controproduttiva in quanto viene concesso troppo spazio nella zona di rifinitura avversaria.
 
-J'ai heurté, savez-vous, d'incroyables Florides
-Mêlant aux fleurs des yeux de panthères à peaux
-D'hommes ! Des arcs-en-ciel tendus comme des brides
-Sous l'horizon des mers, à de glauques troupeaux !
+Se pressato, il Bayer spesso va in difficoltà: sbaglia molto oppure cerca soluzioni lunghe che difficilmente riescono ad andare a buon fine, per via delle caratteristiche dei singoli offensivi.  
 
-J'ai vu fermenter les marais énormes, nasses
-Où pourrit dans les joncs tout un Léviathan !
-Des écroulements d'eaux au milieu des bonaces,
-Et les lointains vers les gouffres cataractant !
+3. Fase di Possesso
 
-Glaciers, soleils d'argent, flots nacreux, cieux de braises !
-Échouages hideux au fond des golfes bruns
-Où les serpents géants dévorés des punaises
-Choient, des arbres tordus, avec de noirs parfums !
 
-J'aurais voulu montrer aux enfants ces dorades
-Du flot bleu, ces poissons d'or, ces poissons chantants.
-- Des écumes de fleurs ont bercé mes dérades
-Et d'ineffables vents m'ont ailé par instants.
+Costruzione
 
-Parfois, martyr lassé des pôles et des zones,
-La mer dont le sanglot faisait mon roulis doux
-Montait vers moi ses fleurs d'ombre aux ventouses jaunes
-Et je restais, ainsi qu'une femme à genoux...
+La fase di costruzione è influenzata dall’atteggiamento dell’avversario. Se c’è la possibilità Leno preferisce iniziare l’azione palla al piede (P1 e P2).
+In questo caso opta per scarichi corti su Sven Bender o in alternativa su Tah, i due centrali di difesa.
+Se invece la squadra avversaria alza la pressione Leno non rischia ma cerca prevalentemente soluzioni centrali lunghe (P3) destinate ai due attaccanti. Principalmente viene cercato Alario, anche se non proprio una punta dominante fisicamente, con il trequartista che gioca molto vicino per essere aggressivo sulla seconda palla. La struttura fisica dei centrocampisti esterni (Brandt, Bellarabi o Bailey) fa si che i lanci di Leno non possano essere diretti a loro. Le soluzioni di costruzione intermedie sono poco utilizzate. 
 
-Presque île, ballottant sur mes bords les querelles
-Et les fientes d'oiseaux clabaudeurs aux yeux blonds.
-Et je voguais, lorsqu'à travers mes liens frêles
-Des noyés descendaient dormir, à reculons !
+Sviluppo
+ La linea difensiva sviluppa il gioco cercando principalmente di uscire sulla fascia destra (P2, P9). Il suo sviluppo ha le seguenti caratteristiche: un centrocampista (Baumgartlinger nella partita contro l’Hoffenheim copre un ruolo chiave in fase di sviluppo: legge la posizione della squadra avversaria e si posiziona in modo da favorire uno sviluppo fluido) si abbassa sulla linea dei difensori formando una linea a 3 (con Tah e Sven Bender). I terzini si alzano, Aranguiz si posiziona sul centrodestra, i due esterni di centrocampo rimangono larghissimi per sfruttare l’ampiezza del campo e le due punte, Volland (che ha più libertà) e Alario rimangono centrali. Quando invece l’avversario ha solo un riferimento centrale non è necessario che Baumgartlinger si abbassi e formi una linea a 3, bensì forma un triangolo con i due centrali, rimanendo più alto (P4).  La fase di sviluppo è più problematica quando subisce una pressione o un pressing avversario. I riferimenti non sono chiari e spesso si verificano delle transizioni difensive (perdita del possesso palla in zone pericolose) (P5).
 
-Or moi, bateau perdu sous les cheveux des anses,
-Jeté par l'ouragan dans l'éther sans oiseau,
-Moi dont les Monitors et les voiliers des Hanses
-N'auraient pas repêché la carcasse ivre d'eau ;
+Rifinitura In zona di rifinitura crea qualche pericolo con Brand, che partendo largo è comunque capace di lavorare tra le linee. Il giocatore che sulla carta dovrebbe fare il trequartista (soprattutto se gioca Volland), interpreta il ruolo in modo particolare. Non cerca di ricevere palla nella zona di rifinitura, ma si alza molto cercando di creare spazi, che possono essere sfruttati dagli esterni che rientrano (soprattutto da Brandt quando gioca a destra). L’altro trquartista, Mhemhedi, è più mobile rispetto a Volland e svaria di più, andando anche a cercare palla sulle zone laterali del campo.  Catene Laterali
 
-Libre, fumant, monté de brumes violettes,
-Moi qui trouais le ciel rougeoyant comme un mur
-Qui porte, confiture exquise aux bons poètes,
-Des lichens de soleil et des morves d'azur ;
+Lo sviluppo della manovra avviene prevalentemente sulle corsie laterali. Indipendentemente dal sistema di gioco, la costante è la presenza di due esterni alti molto alti (Brandt, Bellarabi o Bailey). L’azione sulle fasce è sempre alimentata dai terzini, che cercano spesso triangolazioni con gli esterni della propria fascia (P9).
 
-Qui courais, taché de lunules électriques,
-Planche folle, escorté des hippocampes noirs,
-Quand les juillets faisaient crouler à coups de triques
-Les cieux ultramarins aux ardents entonnoirs ;
+Finalizzazione
 
-Moi qui tremblais, sentant geindre à cinquante lieues
-Le rut des Béhémots et les Maelstroms épais,
-Fileur éternel des immobilités bleues,
-Je regrette l'Europe aux anciens parapets !
+La fase di finalizzazione, come conseguenza dello sviluppo, si articola prevalentemente con cross dalle fasce. Nella trequarti avversaria spesso i terzini sovrappongono e possono essere serviti per crossare (P8 a sinistra, P9 a destra). Il loro apporto è anche finalizzato  a creare spazio per gli esterni (Brandt, Bellarabi o Bailey) per crossare o nel caso rientrare. Brandt è sicuramente il giocatore più imprevedibile, in quanto capace di giocare su entrambe le fasce. Di piede destro trova più facilmente il cross a uscire partendo sulla fascia destra. Anche Bailey, mancino che gioca a sinistra, è abile nel trovare spazio per crossare.
+Gli attaccanti per raccogliere i cross spesso si muovono tutti verso la porta (nessuno si stacca) e creano così lo spazio per i centrocampisti al limite dell’area (per finalizzare ribattute). I cross fatti dal fondo sono i più  pericolosi soprattutto con gli esterni opposti.
 
-J'ai vu des archipels sidéraux ! et des îles
-Dont les cieux délirants sont ouverts au vogueur :
-- Est-ce en ces nuits sans fonds que tu dors et t'exiles,
-Million d'oiseaux d'or, ô future Vigueur ?
+Un’altra soluzione a volte adottata è l’attacco diretto, che spesso parte dai piedi di Tah (P6, P7).
 
-Mais, vrai, j'ai trop pleuré ! Les Aubes sont navrantes. 
-Toute lune est atroce et tout soleil amer :
-L'âcre amour m'a gonflé de torpeurs enivrantes.
-Ô que ma quille éclate ! Ô que j'aille à la mer !
+4. Fase di non possesso
 
-Si je désire une eau d'Europe, c'est la flache
-Noire et froide où vers le crépuscule embaumé
-Un enfant accroupi plein de tristesse, lâche
-Un bateau frêle comme un papillon de mai.
+Nonostante il fatto che siano in trasferta sono molto aggressivi e difficilmente si chiudono dentro alla propria area. In generale la squadra se ha la possibilità prova ad alternare un pressing finalizzato al recupero palla immediato e una pressione mirata (ad indirizzare il gioco dell’avversario). L’aggressività della squadra fa sì che venga concesso molto spazio tra le linee.
 
-Je ne puis plus, baigné de vos langueurs, ô lames,
-Enlever leur sillage aux porteurs de cotons,
-Ni traverser l'orgueil des drapeaux et des flammes,
-Ni nager sous les yeux horribles des pontons.
+Attacco
+ L’attaccante in fase di difesa bassa si concentra molto sull’impedire a Vogt  di ricevere il pallone (NP2). Questo perché il centrale dell’Hoffenheim è particolarmente abile nelle verticalizzazioni di 25/30 metri a superare una o addirittura due linee avversarie. Il giocatore che in fase difensiva si posiziona dietro alla punta (Volland) di fatto ha come ruolo quello di ostacolare il mediano avversario nella fase di sviluppo (NP3). Con questo sistema difensivo c’è molta attenzione su due giocatori chiave della spina dorsale della squadra.
+
+Centrocampo
+
+Il due centrocampisti Baumgartlinger e Aranguiz, ma anche Bender e Havertz, faticano a coprire la zona di rifinitura avversaria. Quando i difensori centrali riescono a verticalizzare (esempio Vogt) concedono veramente molto spazio tra centrocampo e difesa (NP4, NP5). Gli esterni di centrocampo in fase difensiva stringono poco e di conseguenza c’è poco aiuto per i due mediani che devono difendere un’area troppo grande.
+
+Aree laterali
+
+Sulle aree laterali il Bayer è molto aggressivo: raddoppia sugli esterni (NP1) ed in generale crea tanta densità sul lato forte.
+In generale però sembra esserci poca attenzione nel coprire la parte centrale del campo. Spesso dall’esterno del campo si riescono a fare imbucate centrali (NP6).
+
+Difesa 
+Sui cross la linea difensiva marca a zona e poi diventa a uomo con i centrocampisti centrali che si abbassano molto. Il Bayer può avere delle difficoltà se i terzini come Henrics o Wendell si trovano a dover marcare giocatori forti nel gioco aereo (NP7). 
+
+
+
+5. Transizioni
+
+Offensive
+
+È una delle caratteristiche più interessanti del loro gioco. Le transizioni offensive non sono mai finalizzate ad un consolidamento. Il Bayer neanche quando è in vantaggio cerca di consolidare il gioco una volta recuperata la palla. Una volta riconquistato il possesso, cerca con pochi passaggi (TO2, TO3) o con azioni personali (TO1) di creare un’azione pericolosa. Un giocatore importante in questa fase e Bailey. Con la sua rapidità e capacità di attaccare gli spazi è pericoloso nelle ripartenze (TO1) e nei contropiedi (TO3).
+Un giocatore chiave in questa fase è Aranguiz, molto bravo nei tempi di uscita e di lettura della giocata avversaria (TO4). La sua aggressività lo porta a commettere però mediamente tanti falli in una partita. Nella partita contro l’Hannover la sua assenza è determinante.
+
+Difensive
+ Le transizioni difensive sono un punto di forza del Bayer Leverkusen. Una volta persa palla, anche in una zona avanzata del campo, la squadra non scappa verso la propria porta ma aggredisce l’avversario (TD3). In zone del campo più basse l’atteggiamento è lo stesso. La difesa stessa non arretra in modo automatico a protezione della propria area ma cerca di abbassarsi il meno possibile (TD1). Il giocatore di riferimento per la linea, in questa fase, è Sven Bender: Cerca di leggere traiettorie e movimenti avversari e guida la linea verso una riconquista nella propria trequarti (TD2). In generale la difesa in queste situazioni non è in linea. Sven Bender non scappa, mentre Tah guadagna qualche metro verso la porta.
+
+
+6. Analisi SWOT
+
+Punti di forza
+-transizioni offensive
+-intensità e corsa
+-contropiedi
+
+Debolezze
+-La densità fatta sul lato forte inevitabilmente scopre molto il lato debole che è aggredibile
+-viene concesso troppo spazio nella zona di rifinitura (centrocampo non scaglionato)
+-la difesa dei terzini sui cross non è perfetta
+difficoltà nella fase di sviluppo se pressati e (giocatori offensivi non eccellenti nel gioco aereo)
